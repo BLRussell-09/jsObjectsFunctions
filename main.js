@@ -23,12 +23,12 @@ var superPets = [
   }
 ];
 
-console.log(superPets);
-var divElement = document.getElementById("petName")
-var output = '';
-for(i=0; i < superPets.length; i++){
-  divElement.innerHTML += "<h4>" + superPets[i].petName + "</h4>"
-  output += superPets[i].petName;
-}
+// console.log(superPets);
+// var divElement = document.getElementById("petName")
+// var output = '';
+// for(i=0; i < superPets.length; i++){
+//   divElement.innerHTML += "<h4>" + superPets[i].petName + "</h4>"
+//   output += superPets[i].petName;
+// }
 
 
